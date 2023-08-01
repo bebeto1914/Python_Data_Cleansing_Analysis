@@ -1,4 +1,4 @@
-# Python Data cleansing and analysis
+# Python Data cleansing and analysis tool
 
 * Created a Data manipulation, visualisation and analysis tool.
 * The application takes as input 3 large data sets in .csv format and translates them into .json format, creating the appropriate files respectively.
